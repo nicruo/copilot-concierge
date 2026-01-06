@@ -1,4 +1,8 @@
 # Copilot Concierge
+
+<img width="802" height="351" alt="image" src="https://github.com/user-attachments/assets/f0179c50-089a-40b2-a889-b8ea641765cb" />
+
+
 Ready to launch Copilot Agent to assist your users in utilizing Copilot Chat
 
 ## Why?
